@@ -6,7 +6,7 @@
  * Generated linker script file for MK64FN1M0xxx12
  * Created from linkscript.ldt by FMCreateLinkLibraries
  * Using Freemarker v2.3.30
- * MCUXpresso IDE v11.3.0 [Build 5222] [2021-01-11] on Feb 21, 2021 6:51:18 PM
+ * MCUXpresso IDE v11.3.0 [Build 5222] [2021-01-11] on Mar 2, 2021 8:44:14 PM
  */
 
 INCLUDE "tcp-server-socket_lwip_tcpecho_freertos_Debug_library.ld"
